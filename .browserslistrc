@@ -1,0 +1,9 @@
+defaults,
+unreleased Chrome versions,
+Chrome >= 79,
+Firefox >= 72,
+ChromeAndroid >= 81,
+Last 2 FirefoxAndroid Versions,
+Last 2 Android Versions,
+Last 2 Samsung Versions,
+ios_saf >= 13
